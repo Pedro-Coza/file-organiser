@@ -18,4 +18,4 @@ You can easily add missing file extensions on `file_organiser.py` file to the de
 
 ## How to use
 - Run `python make_key.py` on cmd to create a new option on right-click menu. It has instant effect and no further information is shown.
-- You're ready to go!! You should see your new option when right-clickcking any folder on Windows explorer. The script is ready to apply effect instantly over the current working directory (cwd), but it will ask for the creation of every type of folder, just in case you don't want to organise certain type of files.
+- You're ready to go!! You should see your new option when right-clickcking any folder on Windows explorer - click "Show more options" if using Windows 11 -. The script is ready to apply effect instantly over the current working directory (cwd), but it will ask for the creation of every type of folder, just in case you don't want to organise certain type of files.
